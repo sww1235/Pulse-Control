@@ -1,4 +1,6 @@
-This script is designed to start and stop the Pulse Secure VPN client on OS x
+# Pulse Control
+
+This script is designed to start and stop the Pulse Secure VPN client on macOS
 and does not allow it to start up on login automatically unless you choose to
 allow it to.
 
