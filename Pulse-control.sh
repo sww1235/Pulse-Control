@@ -11,7 +11,7 @@ echo "starting Pulse Secure, be sure to exit gui using command Q or quit from"
 echo "the application menu as ^C will only kill this script"
 
 # execute application in background
-$AppPath &
+"$AppPath" &
 
 # get PID of last process
 PID=$!
