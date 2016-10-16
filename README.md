@@ -16,6 +16,8 @@ This stops Pulse Secure running at boot. However this plist needs to be loaded
 for Pulse Secure to work but only when it is running. That is the job of this
 script to take care of.
 
+WARNING: Do not run inside screen or tmux
+
 NOTE: the path specified in the above command and the paths specified in the
 bash script may not be correct for your system. It works on my mac running macOS
 10.11.6 with a default install of Pulse Secure, but YMMV. The bash script has
