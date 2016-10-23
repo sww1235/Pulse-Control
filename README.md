@@ -19,6 +19,9 @@ script to take care of.
 WARNING: Do not run inside screen or tmux
 
 NOTE: the path specified in the above command and the paths specified in the
-bash script may not be correct for your system. It works on my mac running macOS
-10.11.6 with a default install of Pulse Secure, but YMMV. The bash script has
-variables for the paths so it will be easier to modify on your system.
+bash script may not be correct for your system. It works on my mac running:
+
+-   macOS 10.11.6, Pulse Secure 5.2.5
+
+but YMMV. The bash script has variables for the paths so it will be easier
+to modify on your system.
